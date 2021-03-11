@@ -10,14 +10,14 @@ Automatically open browser tabs when links matching given constraints are sent i
 ```
 3.    Download Link Opener: https://github.com/sheppyh/discord-link-opener
 4.    Copy open.py to your desktop.
-5.    Right click open.py and select “Edit with IDLE”. Once in the code, only do the following two things:
-                     Add the discord channel IDs (separated by commas) that you would like to monitor.
-                     Add your Discord token. (Tutorial on how to find your token: 
-                        https://www.youtube.com/watch?v=tI1lzqzLQCs)
-                     If you want to change keywords and blacklist, make sure to use the correct Python syntax, as in Discord for help if confused.
-6.    Save the file.
-7.    Wait for the bot to automatically open Chrome browser tabs when links matching given constraints are sent in the specified discord channels. 
-8.    Cook.
+5.    Right click open.py and select “Edit with IDLE”. 
+6.    Once in the code, only do the following things:
+7.        Add the discord channel IDs (separated by commas) that you would like to monitor.
+8.        Add your Discord token. (Tutorial on how to find your token: https://www.youtube.com/watch?v=tI1lzqzLQCs)
+9.        If you want to change keywords and blacklist, make sure to use the correct Python syntax, as in Discord for help if confused.
+10.    Save the file.
+11.    Wait for the bot to automatically open Chrome browser tabs when links matching given constraints are sent in the specified discord channels. 
+12.    Cook.
 
 # Requirements
 asyncio, discord.py
