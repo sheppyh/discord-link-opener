@@ -25,3 +25,5 @@ asyncio, discord.py
 # Operating Systems
 This was designed for and only tested on windows.
 
+# Help
+Ask for help in this Discord server: https://discord.gg/hpxDjmYtnv
